@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+.hidden{
+    display: none;
+}
+.borda{
+    width: 230px;
+    text-align: center;
+    border: 2px solid #094088; 
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+}
+div{
+    display: inline-block;
+    margin-top: 3px;
+}
