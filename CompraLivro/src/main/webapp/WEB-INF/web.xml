@@ -19,4 +19,14 @@
     <servlet-name>Compra</servlet-name>
     <url-pattern>/Compra</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>Livro</display-name>
+    <servlet-name>Livro</servlet-name>
+    <servlet-class>br.unifaccamp.carrinho.Livro</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Livro</servlet-name>
+    <url-pattern>/Livro</url-pattern>
+  </servlet-mapping>
 </web-app>
